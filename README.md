@@ -1,12 +1,13 @@
-# CreditWise – Loan Approval Prediction
+# CreditCheck – Loan Approval Prediction
 
 ## About the Project
-CreditWise is a machine learning project that predicts whether a loan application will be approved based on applicant information.
+CreditCheck is a machine learning project that predicts whether a loan application will be approved based on applicant information.
 
 I developed this project to apply my machine learning knowledge to a practical classification problem and understand how different algorithms perform on loan approval data.
 
 ## Algorithms Used
 - Logistic Regression
+
 - K-Nearest Neighbors (KNN)
 - Gaussian Naive Bayes
 
@@ -37,7 +38,7 @@ The project uses `loan_approval_data.csv`, which contains applicant-related info
 
 ## Project Structure
 ```text
-CreditWise-Loan-Approval-Prediction/
+CreditCheck-Loan-Approval-Prediction/
 ├── credit_check.ipynb
 ├── loan_approval_data.csv
 ├── requirements.txt
